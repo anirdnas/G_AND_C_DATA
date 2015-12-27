@@ -17,4 +17,5 @@ From the data set in step 4, creates a second, independent tidy data set with th
  
  3) The script run_analysis.R is in this folder along with the codebook which explains all of the variables used. 
  
+ All of the analysis is performed in the home directory. 
  
