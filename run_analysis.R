@@ -64,4 +64,4 @@ DT <- data.table(all)
 TEMP<-DT[,lapply(.SD,mean),by="activity,Subject_Name"]
 
 #create the final tidy data set with write.table
-write.table(TEMP,file="tidy.txt",sep=",",row.names = FALSE)
+write.table(TEMP,file="tidy.txt",row.names = FALSE)
