@@ -21,9 +21,10 @@
 
  "y_all"       - merging labels
  
- "TEMP" - 
  
  "all"   - all data merged together           in one data set
  
  "DT"                - all data in the form of table (from "all")
+ 
+  "TEMP" - table where sd and mean are taken for each  variable. 
  
