@@ -1,6 +1,6 @@
 
- "activity_labels"   
- "all"               
+ "activity_labels"  - read the file activity_labels.txt a list which inks the class labels with their activity name
+ "all"              
  "DT"                
  "features"         
 "mean_std_features" 
